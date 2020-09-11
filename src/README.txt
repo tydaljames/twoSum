@@ -1,5 +1,7 @@
 Created by Tyler D'Alessandro
 
+Time complexity O(n)
+
 To use:
 1) Enter desired array size and values in the main function.
 2) Enter desired sum to be searched for.
